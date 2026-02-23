@@ -1,0 +1,16 @@
+.about{ 
+  background-color: #1abc9c;
+  padding: 120px;
+}
+.line {
+  width: 50px;
+  height: 2px;
+  background: white;
+  margin: 0 10px;
+  border-radius: 10px;
+}
+
+.star {
+  color: white;
+  font-size: 10px;
+}

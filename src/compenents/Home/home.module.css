@@ -1,0 +1,19 @@
+.home {
+  background-color: #1abc9c;
+}
+
+.line {
+  width: 50px;
+  height: 2px;
+  background: white;
+  margin: 0 10px;
+  border-radius: 10px;
+}
+
+.star {
+  color: white;
+  font-size: 10px;
+}
+p{
+    font-size: 10px;
+}

@@ -1,0 +1,13 @@
+.custom{
+ border: none !important;            
+  border-bottom: 1px solid #ababab66 !important;
+  border-radius: 0 !important;        
+  outline: none !important;           
+  box-shadow: none !important; 
+}
+
+
+
+.custom-input:focus {
+  border-bottom: 2px solid #198754;
+}
